@@ -1,6 +1,6 @@
 # Real-Time Emotion Detection
 
-The **Real-Time Emotion Detection** project uses computer vision and machine learning to detect emotions from facial expressions in real-time. The model is built using TensorFlow and OpenCV to classify emotions from live video input captured through a webcam. The emotions detected include categories such as Happy, Sad, Angry, and others.
+The **Real-Time Emotion Detection** project uses computer vision and machine learning to detect emotions from facial expressions in real-time. The model is built using TensorFlow and OpenCV to classify emotions from live video input captured through a webcam. The emotions detected include categories such as Happy, Sad, Angry, Surprised, Fear, Disgust and Neutral.
 
 This project provides a demo notebook where users can run the real-time emotion detection model. The detection process uses a pre-trained model and a Haar Cascade classifier to identify faces in the video stream and predict emotions based on facial expressions.
 
